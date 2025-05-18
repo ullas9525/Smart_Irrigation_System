@@ -31,5 +31,3 @@ A low-cost, Arduino-based irrigation system that waters your plants only when th
 5. If soil is wet → motor OFF + green LED + BT update.
 6. Only sends updates when moisture or motor state changes.
 
-## 🖥️ Serial Output Example
-
